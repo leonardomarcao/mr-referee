@@ -14,7 +14,7 @@ Mr. Referee came up with the aim of monitoring public spending and sharing infor
 
 ## How it works?
 
-![](https://i.ibb.co/k1xTBQT/Diagrama-em-branco.png)
+![](https://i.ibb.co/NyKjJdN/Diagrama-em-branco-1.png)
 
 ### License
 
