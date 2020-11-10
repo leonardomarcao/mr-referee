@@ -12,6 +12,9 @@
 
 Mr. Referee came up with the aim of monitoring public spending and sharing information in an accessible way to anyone. The project uses artificial intelligence called Rosie from the "Serenata de Amor" project, capable of analyzing the expenses reimbursed by the quota for the exercise of parliamentary activity, of federal deputies, made in the exercise of their function, identifying suspicions and encouraging the population to question them . Based on the members registered through the applications, the API Mr. Referee performs the API Jarbas request to return the refund information.
 
+## How it works?
+
+![](https://i.ibb.co/k1xTBQT/Diagrama-em-branco.png)
 
 ### License
 
