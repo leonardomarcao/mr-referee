@@ -3,10 +3,10 @@
 	url = https://github.com/leonardomarcao/mr-referee-desktop
 [submodule "mr-referee"]
 	path = mr-referee
-	url = https://github.com/danielwsilva/mr-referee
-[submodule "mr-referee-web"]
-	path = mr-referee-web
-	url = https://github.com/fsoaresbraga/mr-referee-web.git
+	url = https://github.com/danielwsilva/mr-referee.git
 [submodule "mr-referee-mobile"]
 	path = mr-referee-mobile
 	url = https://github.com/danielwsilva/mr-referee-mobile.git
+[submodule "mr-referee-web"]
+	path = mr-referee-web
+	url = https://github.com/fsoaresbraga/mr-referee-web/
