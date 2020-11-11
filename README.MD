@@ -3,7 +3,7 @@
 
 <!-- ![](https://s8.gifyu.com/images/mr-referee-video-gif.gif) -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/QqwvCiUUgAkP9z3O9F/giphy.gif" alt=""><br>
+  <img src="https://media4.giphy.com/media/6uxdS9LMXW2pzxv5v5/giphy.gif" alt=""><br>
   <a href="https://youtu.be/cqAwWhqfR1k" target="_blank">https://youtu.be/cqAwWhqfR1k</a>(PT-BR)
 </p>
 
